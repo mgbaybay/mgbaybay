@@ -1,7 +1,6 @@
-<h2 align="center"> > Hello World!_ <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-<p align="center">
-	<img align="center" src='https://github.com/mgbaybay/mgbaybay/blob/main/tumblr_n48kjpfo4S1qg6rkio1_500.gif' width='300"'>
-</p>
+<h2> > Hello World!_ <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+
+<img align="center" src='https://github.com/mgbaybay/mgbaybay/blob/main/tumblr_n48kjpfo4S1qg6rkio1_500.gif' width='300"'>
 
 ## Current Interests
 
