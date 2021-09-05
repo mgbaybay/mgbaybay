@@ -1,7 +1,7 @@
 <h2> > Hello World!_ <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-MG_Baybay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maegracebaybay/)](https://www.linkedin.com/in/maegracebaybay/) 
-[![Gmail Badge](https://img.shields.io/badge/-betaalpha477@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:betaalpha477@gmail.com)](mailto:betaalpha477@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-EMAIL-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:betaalpha477@gmail.com)](mailto:betaalpha477@gmail.com)
 
 <img align='center' src='https://github.com/mgbaybay/mgbaybay/blob/main/tumblr_n48kjpfo4S1qg6rkio1_500.gif' width='400"'>
 
