@@ -1,4 +1,4 @@
-<h2> > Hello World!_ <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2 align="center"> > Hello World!_ <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <p align="center">
 	<img align="center" src='https://github.com/mgbaybay/mgbaybay/blob/main/tumblr_n48kjpfo4S1qg6rkio1_500.gif' width='300"'>
 </p>
@@ -13,7 +13,7 @@
 - Playing games! Add me on Nintendo Switch or Playstation 
 
 ## Socials
-<p align="center">
+<p>
   <a href="https://mgbaybay.github.io/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:betaalpha477@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/mgbaybay"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
