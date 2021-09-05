@@ -4,8 +4,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-betaalpha477@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:betaalpha477@gmail.com)](mailto:betaalpha477@gmail.com)
 
 <img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-<img align='center' src='' width='400"'>
-<iframe src="https://giphy.com/embed/ES4Vcv8zWfIt2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ES4Vcv8zWfIt2">via GIPHY</a></p>
+
+<img align='center' src='https://github.com/mgbaybay/mgbaybay/blob/main/tumblr_n48kjpfo4S1qg6rkio1_500.gif' width='200"'>
 
 ## Current Interests
 
