@@ -2,6 +2,8 @@
 <p align="center">
 <img align="center" src='https://github.com/mgbaybay/mgbaybay/blob/main/tumblr_n48kjpfo4S1qg6rkio1_500.gif' width='300"'>
 </p>
+
+--------------------------
 ## Current Interests
 
 - Full Stack Development
