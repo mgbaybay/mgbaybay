@@ -6,13 +6,11 @@
 
 - Artificial Intelligence
 - Machine Learning
-- Full Stack Development
-- Design Principles]
-- Playing games! Add me on Nintendo Switch or Playstation
+- Reading & playing games 
 
 ## Socials
 <p>
-  <a href="https://mgbaybay.github.io/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+  	<a href="https://mgbaybay.github.io/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:mgbaybay.mb@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/mgbaybay"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/mgbaybay/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
@@ -21,6 +19,5 @@
 -----
 
 Modified: Nov 24 2026
-
 
 [![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
